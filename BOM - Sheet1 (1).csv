@@ -1,0 +1,17 @@
+Name,Purpose,Qty,Total (USD),Link,Distributor
+"Octal Bus Transceiver with 3 State Outputs, 74HC Logic, 2V to 6V, DIP 20 - SN74HC245N",logic gate,10,$5.30,Link,cpcfarnell
+"Quad 2 Input Positive AND Logic Gate, 74HC08, 14 Pins, DIP, - SN74HC08N",logic gate,30,$10.50,Link,cpcfarnell
+"Quad 2-Input NAND, 74HC00, DIP14 - SN74HC00N",logic gate,30,$10.00,Link,cpcfarnell
+"Quadruple 2 Input Positive NOR Gates, 2V to 6V, 14 Pins, DIP - SN74HC02N",logic gate,20,$11.00,Link,cpc farnell
+"Quad 2 Input XOR Gates, 14 Pins, DIP - SN74HC86N",logic gate,5,$4.00,Link,cpcfarnell
+5V / 3.3V Breadboard Power Supply - DFR0140,PSU,1,$5.30,Link,cpcfarnell
+"Hex Inverter, 2V to 6V, 14 Pins, DIP - SN74HC04N",logic gate,10,$11.50,Link,cpcfarnell
+76SB08ST,swithces,5,$20.00,Link,cpcfarnell
+FIRMERST 22 Gauge 30 Feet Solid Core Tinned Copper Hook up Wire Kit - 6 Colors,wire,1,$20.60,Link,amazon
+ELEGOO Breadboard 830 Point 3pcs Solderless Prototype PCB Board Kit for Proto Shield Distribution Connecting Blocks for Arduino UNOR3 MEGA NANO,Breadboard,4,$53.50,Link,amazon
+300-Piece Ultimate 5mm LED Ki,LED,1,$8.00,Link,thepihut
+200-Piece Ultimate Capacitor Kit,Capacitors,1,$8.00,Link,thepihut
+575-Piece Ultimate Resistor Kit,Resistors,1,$8.00,Link,thepihut
+Tax (USD)$16.00,,,,,
+Shipping (USD)$5.50,,,,,
+,,,197.2,,
