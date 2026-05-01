@@ -7,6 +7,16 @@ This computer is programmed using five 8-bit switches. Each switch sets the inst
 * The **first 4 bits** control the operation of the computer
 * The **second 4 bits** represent the numerical input (in binary)
 
+  ### What everything does
+
+- **ALU (Arithmetic Logic Unit):** The ALU performs calculations and logical operations on data.  
+- **D latch:** A D latch stores a single bit of data and updates its output when enabled.  
+- **Register:** A register is a small, fast storage location used to hold data temporarily inside the CPU.  
+- **Opcode register:** The opcode register holds the instruction that tells the CPU what operation to perform.  
+- **Data bus:** The data bus is a set of wires that transfers data between components in a computer.  
+- **Accumulator:** The accumulator is a register that stores intermediate results from the ALU.  
+- **Program counter:** The program counter keeps track of the address of the next instruction to be executed.  
+
 ### Instruction Set
 
 Here’s what each command does:
