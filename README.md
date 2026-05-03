@@ -1,5 +1,8 @@
 # Scratch-Built 4-Bit Computer
 
+### What it can do
+The computer is can do basic arithmetics on to 4 bit numbers and output up to a 5 bit number  it can also show negative numbers up to minus 15. 
+
 ## Programming
 
 This computer is programmed using five 8-bit switches. Each switch sets the instruction for one clock cycle.
