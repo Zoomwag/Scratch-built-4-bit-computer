@@ -1,6 +1,23 @@
 # Scratch-Built 4-Bit Computer
+## Overview
+
+I’ve always wondered how computers actually work, so building one from scratch felt like the best way to learn.
+
+Below is the full schematic of the computer:
+
+<img width="7690" height="3105" alt="4 bit computer" src="https://github.com/user-attachments/assets/02da2816-64f4-489b-b293-fd88f76cfa8c" />
+
+The Computer is going to be assemenled on breadbaords where each logic gate is a logc ic some examples of this are ben eaters 8 bit cpu which is made along the same lines.
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/421777d4-90fe-4557-b286-c26cbe66425f" />
+Each logic ic has many logic gates built into it which allows for simpeler and easier wiring.
+
+Here are some more examples of CPUs that are similar to the one i am going to build:
+<img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/aaa3fd8b-a497-4d7d-bd03-229efbe5b15f" />
+<img width="2048" height="1607" alt="image" src="https://github.com/user-attachments/assets/9747efac-04d4-4eab-9b54-1d79fa6ce453" />
+
 
 ### What it can do
+
 The computer is can do basic arithmetics on to 4 bit numbers and output up to a 5 bit number  it can also show negative numbers up to minus 15. 
 
 ## Programming
@@ -42,13 +59,7 @@ This means: **Add 5**
 
 ---
 
-## Overview
 
-I’ve always wondered how computers actually work, so building one from scratch felt like the best way to learn.
-
-Below is the full schematic of the computer:
-
-<img width="7690" height="3105" alt="4 bit computer" src="https://github.com/user-attachments/assets/02da2816-64f4-489b-b293-fd88f76cfa8c" />
 
 ---
 
